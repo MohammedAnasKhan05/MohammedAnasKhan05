@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Mohammed Anas Khan
+-I am a Machine Learning Enthusiast and **Student**. 
+-🔭I'm interested in **Machine Learning, Deep Learning, NLP, Computer Vision & Reinforcement Learning**.
+-🌱 I’m currently learning on ML,DL and Al projects.
+• ii I'm looking to collaborate on building communitites, and research projects in ML.
+How to reach me **mohammedanaskhan05@gmail.com**.
 <!--
 **MohammedAnasKhan05/MohammedAnasKhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
